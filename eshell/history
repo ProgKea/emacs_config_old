@@ -1,0 +1,4 @@
+neofetch
+cd build
+./Platformer 
+clear

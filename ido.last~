@@ -1,0 +1,312 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/keanu/code/habitcli/" . "src/")
+ ("/home/keanu/code/pixel_simulation/" . "src/")
+ ("/home/keanu/.local/share/" . "flowtimer/")
+ ("/home/keanu/.local/" . "share/")
+ ("/home/keanu/.dotfiles/.config/" . "nvim/")
+ ("/home/keanu/code/pixel_sim/" . "build/")
+ ("/home/keanu/.dotfiles/.emacs.d/" . "elpa/")
+ ("/home/keanu/code/platformer/build/data/option_2/" . "herochar sprites(new)/")
+ ("/home/keanu/code/platformer/build/data/" . "option_2/")
+ ("/home/keanu/code/platformer/build/" . "data/")
+ ("/home/keanu/code/platformer/" . "src/")
+ ("/home/keanu/documents/" . "universelle_anleitung/")
+ ("/home/keanu/code/PiPo_DOP/" . "src/")
+ ("/home/keanu/code/PiPo/" . "src/")
+ ("/home/keanu/.dotfiles/" . ".emacs.d/")
+ ("/home/keanu/code/cistern_demo/" . "src/")
+ ("/home/keanu/code/problems/Hackerrank/" . "algo/")
+ ("/home/keanu/code/problems/" . "haskell/")
+ ("/home/keanu/code/rust/rustTest/" . "src/")
+ ("/home/keanu/code/rust/habitcli/" . "src/")
+ ("/home/keanu/code/aoc/" . "day1/")
+ ("/home/keanu/code/SDL2/example/" . "SDL2-Pong/")
+ ("/home/keanu/code/SDL2/" . "example/")
+ ("/home/keanu/.config/" . "i3/")
+ ("/home/keanu/.emacs.d/elpa/" . "hc-zenburn-theme-20150928.1633/")
+ ("/home/keanu/.emacs.d/" . "elpa/")
+ ("/" . "home/")
+ ("/home/" . "keanu/")
+ ("/home/keanu/code/rust/cli/" . "src/")
+ ("/home/keanu/code/rust/" . "habitcli/")
+ ("/home/keanu/suckless/" . "st-flexipatch/")
+ ("/home/keanu/" . "code/")
+ ("/home/keanu/code/" . "vocab/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/keanu/code/vocab/"
+ "/home/keanu/code/habitcli/src/"
+ "/home/keanu/documents/Bankverbindung/"
+ "/home/keanu/documents/universelle_anleitung/"
+ "/home/keanu/"
+ "/home/keanu/.dotfiles/.emacs.d/"
+ "/home/keanu/code/problems/haskell/"
+ "/home/keanu/code/problems/codewars/"
+ "/home/keanu/code/pixel_simulation/src/"
+ "/home/keanu/code/spelunky/"
+ "/home/keanu/code/testing/src/"
+ "/home/keanu/code/"
+ "/home/keanu/code/platformer/src/"
+ "/home/keanu/.local/share/flowtimer/"
+ "/home/keanu/code/filemanager/"
+ "/home/keanu/.dotfiles/.config/nvim/"
+ "/home/keanu/documents/best_software/"
+ "/home/keanu/documents/"
+ "/home/keanu/documents/Prokrastinieren/"
+ "/home/keanu/suckless/st-flexipatch/"
+ "/home/keanu/code/Pixel_Simulation/src/"
+ "/home/keanu/code/pixel_sim/"
+ "/home/keanu/code/platformer/build/"
+ "/home/keanu/code/platformer/"
+ "/home/keanu/code/pixel_sim/src/"
+ "/home/keanu/code/platformer/notes/"
+ "/home/keanu/code/platformer/build/data/option_2/herochar sprites(new)/"
+ "/home/keanu/code/test/"
+ "/home/keanu/code/PiPo/src/"
+ "/home/keanu/code/PiPo_DOP/src/"
+ "/home/keanu/code/PiPo_DOP/"
+ "/home/keanu/code/remake-Endless-Driver/"
+ "/home/keanu/.config/i3/"
+ "/home/keanu/.xmonad/"
+ "/home/keanu/Downloads/"
+ "/home/keanu/code/haskell/"
+ "/home/keanu/.emacs.d/"
+ "/home/keanu/code/cistern_demo/src/"
+ "/home/keanu/code/rust/habitcli/src/"
+ "/home/keanu/code/problems/Hackerrank/algo/"
+ "/home/keanu/code/rust/"
+ "/home/keanu/code/rust/rustTest/src/"
+ "/home/keanu/code/filemanagerv2/"
+ "/home/keanu/code/2d_SDL2/"
+ "/home/keanu/code/rectangle_game/"
+ "/home/keanu/code/groff/"
+ "/home/keanu/code/screensaver_sdl2/"
+ "/home/keanu/code/chess-SDL2/"
+ "/home/keanu/code/game_sdl2/"
+ "/home/keanu/code/chess-SDL2/game_sld2/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "vocab.py"
+ "main.rs"
+ "Bankverbindung.pdf"
+ "universelle_anleitung.pdf"
+ "test.c"
+ "config.org"
+ "find_missing.hs"
+ "count-smiley.cpp"
+ "makefile"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/keanu/code/vocab/" (25199 64144 594613 97000) "vocabs.csv" "../" "vocab.py" "./")
+
+ ("/home/keanu/.emacs.d/" (25200 7884 420476 807000) "elpa/" "eshell/" "auto-save-list/" ".cache/" ".dap-breakpoints" "projects" ".lsp-session-v1" "../" "init.elc" ".last-package-update-day" "ido.last" "smex-items" "init.el" "var/" "todo/" "projectile-bookmarks.eld" "config.el" "config.org" "eln-cache/" "./" "transient/")
+
+ ("/home/keanu/documents/" (25198 63345 792014 930000) "hamburg_reeperbahn_schule/" "Bankverbindung/" "b43/" "b43legacy/" "universelle_anleitung/" "cs/" "../" "Prokrastinieren/" "Fotos/" "versicherungen/" "mustafa/" "./" "Bewerbung Keanu/")
+
+ ("/home/keanu/.dotfiles/.config/nvim/" (25199 63877 570483 642000) "maps.vim" ".git/" "after/" "colors/" "../" "init.vim" "plug.vim" "./")
+
+ ("/home/keanu/.dotfiles/.emacs.d/" (25200 7884 420476 807000) "elpa/" "eshell/" "auto-save-list/" ".cache/" ".dap-breakpoints" "projects" ".lsp-session-v1" "../" "init.elc" ".last-package-update-day" "ido.last" "smex-items" "init.el" "var/" "todo/" "projectile-bookmarks.eld" "config.el" "config.org" "eln-cache/" "./" "transient/")
+
+ ("/home/keanu/documents/universelle_anleitung/" (25198 42867 304466 282000) "universelle_anleitung.pdf" "universelle_anleitung.tex" "../" "universelle_anleitung.md" "./")
+
+ ("/home/keanu/code/habitcli/src/" (25200 7518 641486 801000) "args.rs" "main.rs" "cli.rs" "../" "func.rs" "run.rs" "./")
+
+ ("/home/keanu/code/" (25199 63454 710610 895000) "mental_arithmetic/" "notenliste/" "filemanager/" "go/" "rythm-typer/" "subashtion/" "word_freq_database/" "automate_the_boring_stuff/" "problems/" "pixel_simulation/" "filemanagerv2/" "../" "remake-Endless-Driver/" "simple_counter/" "todocli/" "scripts/" "screensaver_x11/" "leetcode/" "vocab/" "screensaver_sdl2/" "habitcli/" "chessboard-SDL2/" "cistern_demo/" "./" "c-sdl2-template/")
+
+ ("/home/keanu/" (25200 7496 211139 922000) ".ssh/" ".ghci" ".notmuch-config" ".ghc/" ".rustup/" ".subversion/" ".java/" "Desktop/" "Videos/" "wallpapers/" ".bash_history" ".wine-x86_64-w64-mingw32/" ".cache/" ".m2/" ".jump/" ".john/" ".cmake/" ".sqlite_history" "Bewerbung/" ".gnupg/" ".local/" ".habitctl/" ".bashrc" ".zcompdump" ".lesshst" ".gradle/" ".yarn/" ".wine/" ".patgit" ".bash_logout" "code/" ".python_history" ".openjfx/" ".mbsyncrc" ".zshrc.pre-oh-my-zsh" ".node_repl_history" ".config/" ".profile" ".zcompdump.arch.20625" "documents/" ".certificates/" ".w3m/" ".Xauthority" ".gitconfig" ".wine-i686-w64-mingw32/" ".thunderbird/" "themes/" ".bash_profile" ".npm/" ".BurpSuite/" "../" ".tmux-cht-languages" ".ts_node_repl_history" ".fehbg" ".surf/" ".Xresources" ".tt/" ".cargo/" "Passwords.kdbx" ".elementary/" ".wget-hsts" ".password-store/" ".scid4.7/" ".zshrc" ".node-gyp/" ".msf4/" "Downloads/" "suckless/" ".zshenv" ".mysql_history" ".emacs.d/" ".ccls-cache/" ".viminfo" ".dotfiles/" ".zsh_history" ".electron/" ".irssi/" ".zcompdump.arch.7933" ".zhistory" "neovim/" ".tmux-cht-command" ".dbus/" ".oh-my-zsh/" ".zprofile" ".tmux.conf" ".yarnrc" ".mozilla/" "./" ".zcompdump-arch-5.8.1" ".statusline.sh" ".pki/" ".texlive/" ".xinitrc")
+
+ ("/home/keanu/.emacs.d/elpa/" (25194 44679 926718 291000) "magit-section-20220425.1002/" "annalist-20190929.207/" "archives/" "pkg-info-20150517.1143/" "pcache-20201226.634/" "lv-20200507.1518/" "magit-20220425.1153/" "diminish-20220104.1539/" "transient-20220425.1314/" "which-key-20220419.227/" "ace-window-20200606.1259/" "epl-20180205.2049/" "auto-package-update-20211108.2025/" "back-button-20150804.2004/" "hydra-20220102.803/" "lsp-ui-20220425.1046/" "s-20210616.619/" "persistent-soft-20150223.1853/" "git-commit-20220422.1903/" "flycheck-rust-20190319.1546/" "lsp-pyright-20220411.1753/" "markdown-mode-20220406.410/" "compat-28.1.1.0/" "dash-20220417.2250/" "project-0.8.1/" "pfuture-20220425.1242/" "projectile-20220419.1102/" "smartrep-20150509.230/" "evil-collection-20220425.851/" "cmake-ide-20210610.1525/" "cyberpunk-theme-20200601.1632/" "spinner-1.7.4.signed" "with-editor-20220422.1628/" "pdf-tools-20220418.1555/" "emacs-collection/" "string-utils-20140508.2041/" "rustic-20220323.1159/" "spinner-1.7.4/" "../" "clang-format-20191106.950/" "xterm-color-20200605.2017/" "button-lock-20200309.1323/" "gruber-darker-theme-20220107.1815/" "compat-28.1.1.0.signed" "levenshtein-20090830.1040/" "lsp-mode-20220424.1824/" "cmake-mode-20220322.1258/" "project-0.8.1.signed" "xref-1.4.1/" "goto-chg-20220107.1733/" "auctex-13.1.3.signed" "queue-0.2/" "monochrome-theme-20140326.1050/" "auctex-13.1.1.signed" "xref-1.4.1.signed" "nav-flash-20210906.1942/" "bind-key-20210210.1609/" "ido-vertical-mode-20210205.436/" "avy-20220102.805/" "company-c-headers-20190825.1631/" "tablist-20200427.2205/" "expand-region-20210708.1952/" "ht-20210119.741/" "f-20220405.1534/" "gruvbox-theme-20220101.1208/" "list-utils-20210111.1522/" "use-package-20210207.1926/" "gnupg/" "autothemer-20220106.416/" "auctex-13.1.2.signed" "auctex-13.1.3/" "darkburn-theme-20170423.1652/" "flycheck-20220328.1518/" "cfrs-20220129.1149/" "lsp-treemacs-20220328.625/" "ucs-utils-20150826.1414/" "queue-0.2.signed" "smex-20151212.2209/" "ayu-theme-20200521.1157/" "company-20220425.1145/" "rust-mode-20220217.2009/" "./" "bui-20210108.1141/" "treemacs-20220425.1217/" "lsp-latex-20210815.1426/" "evil-20220424.2228/" "posframe-20220124.859/")
+
+ ("/home/keanu/.emacs.d/elpa/pdf-tools-20220418.1555/" (25197 14372 66898 27000) "README" "pdf-loader.elc" "pdf-macs.elc" "pdf-history.elc" "pdf-isearch.el" "pdf-virtual.el" "pdf-info.el" "pdf-tools.elc" "pdf-occur.elc" "pdf-outline.el" "pdf-cache.elc" "epdfinfo" "pdf-tools-autoloads.el" "pdf-links.elc" "pdf-view.el" "pdf-dev.elc" "pdf-history.el" "build/" "pdf-misc.el" "pdf-macs.el" "pdf-info.elc" "pdf-sync.el" "../" "pdf-tools.el" "pdf-dev.el" "pdf-util.elc" "pdf-misc.elc" "pdf-annot.elc" "pdf-tools-pkg.el" "pdf-links.el" "pdf-cache.el" "pdf-isearch.elc" "pdf-annot.el" "pdf-sync.elc" "pdf-virtual.elc" "pdf-loader.el" "pdf-outline.elc" "pdf-view.elc" "pdf-util.el" "./" "pdf-occur.el")
+
+ ("/home/keanu/.emacs.d/elpa/pdf-tools-20220418.1555/build/" (25191 7098 792982 991000) "server/" "Makefile" "../" "./")
+
+ ("/home/keanu/.emacs.d/elpa/pdf-tools-20220418.1555/build/server/" (25197 14371 123550 105000) "synctex_parser.c" "autobuild" "autom4te.cache/" "ar-lib" "Makefile.in" "synctex_version.h" "epdfinfo.h" "m4/" "synctex_parser_local.h" "Makefile" ".gitignore" "configure.ac" "epdfinfo" "libsynctex_a-synctex_parser.o" "config.sub" "autogen.sh" "epdfinfo-poppler-hack.o" "missing" "stamp-h1" "aclocal.m4" "config.h" "synctex_parser_readme.txt" "synctex_parser_advanced.h" "Makefile.am" "config.h.in" "../" "config.status" "depcomp" "synctex_parser.h" "epdfinfo-epdfinfo.o" "poppler-hack.cc" "config.guess" "install-sh" "synctex_parser_utils.c" "synctex_parser_utils.h" "synctex_parser_version.txt" "install_test.cpp" "compile" "libsynctex.a" "config.log" "./" "configure" "libsynctex_a-synctex_parser_utils.o" ".deps/" "test/" "poppler-versions" "epdfinfo.c")
+
+ ("/home/keanu/code/problems/haskell/" (25194 44672 503270 156000) "vowel_count.hs" "highestandlowest_in_string.hs" "find_missing_letter.hs" "your_order_please.hs" "../" "move_zeros.hs" "grading_students.hs" "scramblies.hs" "find_missing.hs" "find_outlier.hs" "./" "get_mid_char.hs")
+
+ ("/home/keanu/code/habitcli/" (25178 51542 795919 150000) ".gitignore" ".git/" "../" "README.md" "Cargo.lock" "target/" "Cargo.toml" "src/" "./")
+
+ ("/home/keanu/code/problems/codewars/" (25193 12384 498350 376000) "create-phone-number.cpp" "duplicate-encoder.cpp" "disemvowel-trolls.cpp" "clean.sh" "find-the-odd-int.cpp" "count-smiley.cpp" "count-characters-in-your-string.cpp" "../" "to-camel-case.cpp" "who-likes-this.cpp" "./" "split-strings.cpp")
+
+ ("/home/keanu/code/problems/" (25190 42501 589606 277000) "haskell/" "Hackerrank/" "../" "python/" "codewars/" "C_C++/" "./")
+
+ ("/home/keanu/Downloads/" (25181 38296 200482 27000) "../" "./")
+
+ ("/home/keanu/code/testing/src/" (25180 7167 314914 643000) "main.rs" "../" "./")
+
+ ("/home/keanu/code/pixel_simulation/src/" (25191 7250 11988 218000) "pixel.rs" "main.rs" "../" "./")
+
+ ("/home/keanu/code/spelunky/" (25180 34808 394620 270000) "build/" "../" "src/" "./")
+
+ ("/home/keanu/code/testing/" (25180 6953 874947 185000) "../" "./")
+
+ ("/home/keanu/code/pixel_simulation/" (25176 10860 939336 539000) ".gitignore" ".git/" "../" "Cargo.lock" "target/" "Cargo.toml" "src/" "./")
+
+ ("/home/keanu/suckless/st-flexipatch/" (25179 11536 947108 369000) "README" "FAQ" "TODO" "Makefile" "LICENSE" ".gitignore" ".git/" "patches.def.h" "sixel.h" "sixel_hls.c" "sixel.c" "win.h" "config.h" "st.h" "hb.h" "x.o" "patches.h" "../" "config.def.h" "x.c" "README.md" "st.1" "hb.c" "arg.h" ".ccls-cache/" "st.info" "patch/" "st.c" "sixel_hls.h" "LEGACY" "st.desktop" "st.o" "./" "config.mk" "st")
+
+ ("/home/keanu/code/subashtion/" (25178 46192 82707 125000) ".git/" "sb" "../" "./" "readme.md")
+
+ ("/home/keanu/code/platformer/src/" (25175 23508 839931 895000) "CMakeLists.txt" "run.sh" "tiles.c" "build.sh" "../" "animation.h" "player.c" "tiles.h" "animation.c" "player.h" "entity.c" "entity.h" "main.c" "raylib/" "configure.sh" "./" "header.h")
+
+ ("/home/keanu/.local/share/flowtimer/" (25174 54503 766628 706000) "../" "time" "./")
+
+ ("/home/keanu/.local/share/" (25174 54382 168081 551000) "sqlmap/" "webkitgtk/" "torbrowser/" "webScripts/" "flowtimer/" "Anki/" "evolution/" "kxmlgui5/" "xorg/" "applications/" "Anki2/" "konsole/" "recently-used.xbel" "desktop-directories/" "unity3d/" "zathura/" "ghostwriter/" "firenvim/" "fish/" "../" "man/" "mime/" "hashcat/" "gvfs-metadata/" "gnome-pomodoro/" "UnityHub/" "calcurse/" "inxi/" "qutebrowser/" "wallhaven/" "mypaint/" "typeracer/" "sounds/" "mail/" "icons/" "dijo/" "./" "nvim/" "tiled/" "gegl-0.4/")
+
+ ("/home/keanu/.local/" (25095 42466 61354 317000) "share/" "include/" "lib/" "../" "./" "bin/")
+
+ ("/home/keanu/code/scripts/" (25174 54601 541474 100000) "yt" "tmux-cht.sh" "flowtimer" "waldl" ".git/" "dmenu" "sb" "rebind" "slstatus" "setbg" "../" "getip" "cht" "tmux-windowizer" "killer" "tmux-sessionizer" "visitWebsite" "google" "fzf-tmux" "tmux-so" "dmenu_path" "selectbg" "dmenu_run" "./" "compile_bewerbung")
+
+ ("/home/keanu/code/screensaver_x11/" (25174 42655 333558 143000) "../" "main.c" "makefile" "sv" "./")
+
+ ("/home/keanu/documents/best_software/" (25174 41430 477949 417000) "best_software.org" "../" "./")
+
+ ("/home/keanu/code/filemanager/" (25174 41491 942233 279000) "Makefile" "first_version/" "main.cpp" "../" "fm" "./")
+
+ ("/home/keanu/code/examples/" (25173 51653 636513 854000) "../" "./")
+
+ ("/home/keanu/.dotfiles/.config/" (25172 37563 287375 847000) "wal/" "configstore/" "sxhkd/" "neofetch/" "mpv/" "evolution/" "ibus/" "procps/" "lsd/" "matplotlib/" "Electron/" "gh/" "dunst/" "yarn/" "zathura/" "inkscape/" "libfm/" "user-dirs.locale" "gtk-3.0/" "menus/" "mimeapps.list" "fish/" "../" "discord/" "discordcanary/" "mutt/" "draw.io/" "msmtp/" "sqlitebrowser/" "goa-1.0/" "user-dirs.dirs" "calcurse/" "nvim_primagen/" "GIMP/" "pulse/" "deluge/" "gtk-2.0/" "dconf/" "typeracer/" "htop/" "./" "nvim/" "i3/")
+
+ ("/home/keanu/documents/Prokrastinieren/" (25174 39703 844580 835000) "prokrastinieren.md" "prokastinieren.out" "prokastinieren.toc" "prokastinieren.log" "prokastinieren.dvi" "prokastinieren.pdf" "../" "Stop Procrastinating A Simple Guide to Hacking Laziness, Building Self Discipline, and Overcoming Procrastination ( PDFDrive ).pdf" "prokastinieren.fls" "prokastinieren.fdb_latexmk" "prokastinieren.tex" "./" "prokastinieren.aux")
+
+ ("/home/keanu/suckless/" (25168 33618 81474 922000) ".gitignore" "st-flexipatch/" ".git/" "dmenu/" "slstatus/" "../" "./" "dwm/")
+
+ ("/home/keanu/.dotfiles/" (25172 35276 105338 532000) ".ghci" ".ghc/" ".gitignore" ".git/" ".zshrc.pre-oh-my-zsh" ".config/" ".profile" "../" ".tmux-cht-languages" ".Xresources" ".zshrc" ".zshenv" ".emacs.d/" ".tmux-cht-command" ".oh-my-zsh/" ".zprofile" ".tmux.conf" "./" ".xinitrc")
+
+ ("/home/keanu/.dotfiles/.emacs.d/elpa/" (25172 35358 903285 647000) "annalist-20190929.207/" "archives/" "pkg-info-20150517.1143/" "f-20210624.1103/" "pcache-20201226.634/" "lv-20200507.1518/" "magit-20220319.1030/" "diminish-20220104.1539/" "ace-window-20200606.1259/" "epl-20180205.2049/" "evil-magit/" "pfuture-20211229.1513/" "lsp-treemacs-20220102.1517/" "back-button-20150804.2004/" "evil/" "which-key-20220214.1818/" "flycheck-20220314.27/" "hydra-20220102.803/" "s-20210616.619/" "persistent-soft-20150223.1853/" "lsp-mode-20220318.1246/" "cmake-mode/" "pdf-tools-20220214.344/" "magit-section-20220311.1044/" "project-0.8.1/" "with-editor-20220318.1640/" "smartrep-20150509.230/" "cmake-ide-20210610.1525/" "cyberpunk-theme-20200601.1632/" "spinner-1.7.4.signed" "projectile-20220313.1334/" "company-20220310.2313/" "emacs-collection/" "string-utils-20140508.2041/" "markdown-mode-20220212.728/" "dash-20210826.1149/" "spinner-1.7.4/" "../" "clang-format-20191106.950/" "xterm-color-20200605.2017/" "button-lock-20200309.1323/" "gruber-darker-theme-20220107.1815/" "levenshtein-20090830.1040/" "project-0.8.1.signed" "xref-1.4.1/" "transient-20220314.1605/" "queue-0.2/" "monochrome-theme-20140326.1050/" "auctex-13.1.1.signed" "xref-1.4.1.signed" "nav-flash-20210906.1942/" "bind-key-20210210.1609/" "ido-vertical-mode-20210205.436/" "avy-20220102.805/" "treemacs-20220216.1950/" "company-c-headers-20190825.1631/" "tablist-20200427.2205/" "expand-region-20210708.1952/" "ht-20210119.741/" "gruvbox-theme-20220101.1208/" "list-utils-20210111.1522/" "use-package-20210207.1926/" "gnupg/" "autothemer-20220106.416/" "darkburn-theme-20170423.1652/" "cfrs-20220129.1149/" "lsp-ui-20220311.1634/" "ucs-utils-20150826.1414/" "git-commit-20220222.1036/" "queue-0.2.signed" "smex-20151212.2209/" "evil-collection/" "./" "bui-20210108.1141/" "auctex-13.1.1/" "lsp-latex-20210815.1426/" "posframe-20220124.859/")
+
+ ("/home/keanu/code/pixel_sim/" (25172 34280 589943 157000) "CMakeLists.txt" ".gitignore" ".git/" "build/" "run.sh" "build.sh" "../" ".gitmodules" "main.c" "configure.sh" "./" "header.h")
+
+ ("/home/keanu/code/Pixel_Simulation/src/" (25172 34929 289975 127000) "test.rs" "main.rs" "../" "./")
+
+ ("/home/keanu/code/Pixel_Simulation/" (25172 34599 221537 375000) ".gitignore" ".git/" "../" "Cargo.toml" "src/" "./")
+
+ ("/home/keanu/code/platformer/" (25171 19433 932876 900000) ".gitignore" ".git/" "build/" "../" ".gitmodules" "src/" "platformer.png" "./" "readme.md")
+
+ ("/home/keanu/code/platformer/build/" (25171 23575 256993 550000) "data/" "Makefile" "CMakeFiles/" "wallhugger" "cmake_install.cmake" "../" "CPackConfig.cmake" "CPackSourceConfig.cmake" "raylib/" "./" "CMakeCache.txt")
+
+ ("/home/keanu/code/pixel_sim/build/" (25171 748 394730 912000) "Makefile" "CMakeFiles/" "cmake_install.cmake" "../" "./" "CMakeCache.txt")
+
+ ("/home/keanu/code/pixel_sim/src/" (25170 63608 823353 929000) "../" "main.c" "./" "header.h")
+
+ ("/home/keanu/documents/Bankverbindung/" (25169 55815 445649 668000) "Bankverbindung.log" "Bankverbindung.aux" "Bankverbindung.fls" "Bankverbindung.fdb_latexmk" "../" "Bankverbindung.dvi" "latex7186.fls" "Bankverbindung.tex" "Bankverbindung.pdf" "./")
+
+ ("/home/keanu/Documents/" (25168 43216 407225 312000) "untitled-1.md" "../" "untitled-1.md.backup" "./")
+
+ ("/home/keanu/.emacs.d/elpa/hc-zenburn-theme-20150928.1633/" (25145 65171 903219 477000) "hc-zenburn-theme-pkg.el" "hc-zenburn-theme-autoloads.el" "hc-zenburn-theme.el" "../" "./")
+
+ ("/home/keanu/code/platformer/build/data/option_2/herochar sprites(new)/" (25144 30882 49577 743000) "herochar_spritesheet(new).png" "herochar_attack_anim_strip_4(new).png" "herochar_before_jump_dust_anim.gif" "herochar_jump_up_anim_strip_3.png" "hit_sparkle_anim_strip_4.png" "herochar_jump_down_anim.gif" "herochar_before_jump_dust_anim_strip_4.png" "herochar_death_anim_strip_8.png" "herochar_sword_attack_anim.gif" "herochar_run_anim.gif" "sword_effect(new).gif" "sword_effect_strip_4(new).png" "../" "herochar_before_or_after_jump.gif" "herochar_hit_anim_strip_3.png" "herochar_before_or_after_jump_srip_2.png" "hit_sparkle_anim.gif" "herochar_jump_down_anim_strip_3.png" "herochar_idle_anim_strip_4.png" "herochar_jump_double_anim.gif" "herochar_jump_up_anim.gif" "herochar_pushing_foward_anim.gif" "herochar_attack_anim(new).gif" "herochar_after_jump_dust_anim.gif" "herochar_hit_anim.gif" "herochar_pushing_foward_anim_strip_6.png" "herochar_sword_attack_anim_strip_4.png" "herochar_run_anim_strip_6.png" "herochar_jump_double_anim_strip_3.png" "herochar_death_anim.gif" "herochar_after_jump_dust_anim_strip_4.png" "./")
+
+ ("/home/keanu/code/platformer/notes/" (25143 21844 257131 847000) "../" "./")
+
+ ("/home/keanu/code/platformer/build/data/option_2/" (25141 61861 86127 549000) "fauna sprites/" "miscellaneous sprites/" "enemies sprites/" "tiles/" "../" "herochar sprites(new)/" "./" "hud elements/")
+
+ ("/home/keanu/code/platformer/build/data/" (25141 61705 697057 832000) "option_2/" "option_1/" "../" "./")
+
+ ("/home/keanu/code/test/" (25143 8026 69502 985000) "resources/" "textures_rectangle.c" "../" "./" "test")
+
+ ("/home/keanu/code/PiPo_DOP/src/" (25142 18869 196039 196000) "RenderWindow.c" "Entity.c" "../" "RenderWindow.h" "main.c" "Entity.h" "./" "header.h")
+
+ ("/home/keanu/code/PiPo/src/" (25142 19000 164731 258000) "entity.hpp" "RenderWindow.hpp" "main.cpp" "../" "utils.hpp" "renderwindow.cpp" "entity.cpp" "math.hpp" "./" "math.cpp")
+
+ ("/home/keanu/code/raylib/" (25142 53494 934638 407000) "test.c" "my_amazing_texture_painting.png" "../" "./" "test")
+
+ ("/home/keanu/code/PiPo_DOP/" (25142 16761 910117 259000) ".gitignore" ".git/" "build/" "../" "game idea.xcf" "src/" "./" "readme.md")
+
+ ("/home/keanu/code/PiPo_DOP/.git/" (25142 16065 449346 683000) "hooks/" "branches/" "description" "../" "refs/" "objects/" "HEAD" "info/" "index" "config" "./")
+
+ ("/usr/" (25081 1726 184053 236000) "share/" "i686-w64-mingw32/" "x86_64-w64-mingw32/" "include/" "lib64/" "lib/" "libexec/" "lib32/" "../" "src/" "local/" "sbin/" "./" "bin/")
+
+ ("/usr/share/" (25141 59140 684057 271000) "zoneinfo/" "autoconf/" "syslog-ng/" "awk/" "openrc-settingsd/" "licenses/" "haskell-colour/" "perl5/" "tc/" "kbd/" "X11/" "pulseaudio/" "vala/" "mpv/" "gitweb/" "pandoc/" "texinfo/" "pkgconfig/" "i18n/" "emacs/" "glib-2.0/" "appdata/" "xcb/" "keyutils/" "graphviz/" "mutt-wizard/" "makepkg/" "libthai/" "ibus/" "systemtap/" "java/" "texmf-dist/" "factory/" "haskell-byteable/" "ca-certificates/" "source-highlight/" "fonts/" "gst-plugins-base/" "guile/" "applications/" "scan-build/" "hwdata/" "dhclient/" "t1lib/" "rlwrap/" "automake-1.16/" "ss/" "scid/" "xsessions/" "GConf/" "desktop-directories/" "libtool/" "texmf/" "readline/" "bash-completion/" "x86_64-linux-ghc-9.0.2/" "icu/" "tlpkg/" "zsh/" ".mono/" "clc/" "wayland/" "zoneinfo-leaps/" "glvnd/" "pixmaps/" "haskell-doctemplates/" "zoneinfo-posix/" "mkinitcpio/" "xtables/" "tabset/" "haskell/" "gmock/" "lensfun/" "vulkan/" "themes/" "p11-kit/" "gtk-3.0/" "cmake/" "dbus-1/" "libwacom/" "feh/" "fish/" "clang/" "iso-codes/" "../" "drirc.d/" "mypaint-data/" "defaults/" "locale/" "man/" "ghostscript/" "git-gui/" "iana-etc/" "xml/" "dwarves/" "pmix/" "mime/" "aclocal-1.16/" "git/" "gettext-0.21/" "mobile-broadband-provider-info/" "ImageMagick-7/" "groff/" "poppler/" "libwmf/" "gcc-11.2.0/" "doc/" "gdb/" "gitk/" "common-lisp/" "lua/" "xapian-core/" "imlib2/" "util-macros/" "Eterm/" "info/" "subversion/" "gettext/" "wine/" "libalpm/" "gir-1.0/" "ffmpeg/" "bison/" "vim/" "polkit-1/" "hwloc/" "FLAC/" "fontconfig/" "apr-1/" "ladspa/" "iptables/" "luajit-2.1.0-beta3/" "thumbnailers/" "et/" "opt-viewer/" "gtk-4.0/" "gnupg/" "avahi/" "alsa/" "netpbm/" "gtk-doc/" "ntp/" "scan-view/" "terminfo/" "metainfo/" "makepkg-template/" "graphite2/" "endless-driver/" "gstreamer-1.0/" "qt/" "gtk-2.0/" "git-core/" "os-prober/" "audit/" "sxiv/" "sounds/" "model/" "fzf/" "aclocal/" "libgpg-error/" "haskell-pretty-show/" "openmpi/" "grub/" "icons/" "./" "dhcpcd/" "nvim/" "misc/" "libdrm/" "gimp/" "pacman/" "slsh/" "file/" "libinput/" "gegl-0.4/")
+
+ ("/usr/share/info/" (25139 20523 359737 871000) "libidn.info.gz" "libidn-components.png.gz" "woman.info.gz" "vip.info.gz" "speedbar.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sasl.info.gz" "org.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "ido.info.gz" "idlwave.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs-mime.info.gz" "elisp.info.gz" "eintr.info.gz" "ediff.info.gz" "libcdio.info.gz" "bovine.info.gz" "autotype.info.gz" "gcrypt.info-1.gz" "efaq.info.gz" "texinfo.info-3.gz" "tar.info-2.gz" "gsasl.info.gz" "nettle.info.gz" "assuan.info.gz" "automake.info-1.gz" "make.info-1.gz" "libgccjit.info.gz" "flex.info-2.gz" "cl.info.gz" "flex.info.gz" "info-stnd.info.gz" "automake.info.gz" "gawkinet.info.gz" "guile.info-2.gz" "m4.info.gz" "ksba.info.gz" "r5rs.info.gz" "gmp.info-2.gz" "guile.info-5.gz" "libunistring.info.gz" "guile.info-3.gz" "groff.info.gz" "guile.info-7.gz" "make.info.gz" "inetutils.info.gz" "groff.info-1.gz" "gmp.info.gz" "guile.info-1.gz" "msmtp.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vhdl-mode.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "smtpmail.info.gz" "sc.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "octave-mode.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "eshell.info.gz" "emacs.info.gz" "emacs-gnutls.info.gz" "eieio.info.gz" "edt.info.gz" "ede.info.gz" "ebrowse.info.gz" "dired-x.info.gz" "dbus.info.gz" "ccmode.info.gz" "calc.info.gz" "auth.info.gz" "gpm.info.gz" "wget.info.gz" "dir" "which.info.gz" "make.info-2.gz" "guile.info.gz" "guile.info-9.gz" "guile.info-8.gz" "guile.info-6.gz" "guile.info-4.gz" "guile.info-10.gz" "texinfo.info.gz" "texinfo.info-2.gz" "texinfo.info-1.gz" "groff.info-2.gz" "flex.info-1.gz" "automake.info-2.gz" "automake-history.info.gz" "autoconf.info.gz" "diffutils.info.gz" "m4.info-2.gz" "m4.info-1.gz" "gnupg.info.gz" "gnupg.info-2.gz" "gnupg.info-1.gz" "pinentry.info.gz" "gcrypt.info.gz" "gcrypt.info-2.gz" "libidn2.info.gz" "libtasn1.info.gz" "gzip.info.gz" "libffi.info.gz" "tar.info.gz" "tar.info-1.gz" "grep.info.gz" "gawkworkflow.info.gz" "gawk.info.gz" "coreutils.info.gz" "gmp.info-1.gz" "stow.info.gz" "bison.info.gz" "gettext.info.gz" "autosprintf.info.gz" "web2c.info.gz" "tlbuild.info.gz" "kpathsea.info.gz" "dvips.info.gz" "dvipng.info.gz" "libtool.info.gz" "libtool.info-2.gz" "libtool.info-1.gz" "gccint.info.gz" "gccinstall.info.gz" "gcc.info.gz" "cppinternals.info.gz" "cpp.info.gz" "libmpc.info.gz" "mpfr.info.gz" "ld.info.gz" "gprof.info.gz" "ctf-spec.info.gz" "binutils.info.gz" "bfd.info.gz" "as.info.gz" "libquadmath.info.gz" "libitm.info.gz" "libgomp.info.gz" "libc.info.gz" "libc.info-9.gz" "libc.info-8.gz" "libc.info-7.gz" "libc.info-6.gz" "libc.info-5.gz" "libc.info-4.gz" "libc.info-3.gz" "libc.info-2.gz" "libc.info-18.gz" "libc.info-17.gz" "libc.info-16.gz" "libc.info-15.gz" "libc.info-14.gz" "libc.info-13.gz" "libc.info-12.gz" "libc.info-11.gz" "libc.info-10.gz" "libc.info-1.gz" "gpgme.info.gz" "gpgme.info-2.gz" "gpgme.info-1.gz" "rluserman.info.gz" "readline.info.gz" "history.info.gz" "gdbm.info.gz" "find.info.gz" "find.info-2.gz" "find.info-1.gz" "find-maint.info.gz" "fftw3.info.gz" "fftw3.info-2.gz" "fftw3.info-1.gz" "x86_64-w64-mingw32/" "i686-w64-mingw32/" "gpgrt.info.gz" "notmuch.info.gz" "notmuch-tag.info.gz" "notmuch-show.info.gz" "notmuch-sexp-queries.info.gz" "notmuch-search.info.gz" "notmuch-search-terms.info.gz" "notmuch-restore.info.gz" "notmuch-reply.info.gz" "notmuch-reindex.info.gz" "notmuch-properties.info.gz" "notmuch-new.info.gz" "notmuch-insert.info.gz" "notmuch-hooks.info.gz" "notmuch-emacs-mua.info.gz" "notmuch-dump.info.gz" "notmuch-count.info.gz" "notmuch-config.info.gz" "notmuch-compact.info.gz" "notmuch-address.info.gz" "pkcs11-vision.png" "gnutls.info.gz" "gnutls.info-7.gz" "gnutls.info-6.gz" "gnutls.info-5.gz" "gnutls.info-4.gz" "gnutls.info-3.gz" "gnutls.info-2.gz" "gnutls.info-1.gz" "gnutls-x509.png" "gnutls-modauth.png" "gnutls-logo.png" "gnutls-layers.png" "gnutls-internals.png" "gnutls-handshake-state.png" "gnutls-handshake-sequence.png" "gnutls-guile.info.gz" "gnutls-crypto-layers.png" "gnutls-client-server-use-case.png" "stabs.info.gz" "gdb.info.gz" "gdb.info-8.gz" "gdb.info-7.gz" "gdb.info-6.gz" "gdb.info-5.gz" "gdb.info-4.gz" "gdb.info-3.gz" "gdb.info-2.gz" "gdb.info-1.gz" "annotate.info.gz" "source-highlight.info.gz" "source-highlight-lib.info.gz" "bash.info.gz" "libext2fs.info.gz" "sed.info.gz" "grub.info.gz" "grub.info-2.gz" "grub.info-1.gz" "grub-dev.info.gz" "../" "./")
+
+ ("/home/artix/" (25002 27049 70642 878000) ".face.icon" ".face" ".local/" ".bashrc" ".bash_logout" ".config/" ".bash_profile" "../" ".icons/" ".gtkrc-2.0" "./" ".gtkrc-2.0-kde4")
+
+ ("/home/keanu/code/PiPo_DOP/build/" (25142 3247 823905 265000) "data/" "Makefile" "windows/" "../" "./" "PiPo")
+
+ ("/home/keanu/code/rust/" (25141 52567 632406 812000) "../" "todocli/" "habitcli/" "./")
+
+ ("/home/keanu/.config/i3/" (25137 56246 16097 661000) ".config.~undo-tree~" "../" "config" "./")
+
+ ("/home/keanu/code/PiPo/" (25140 53879 71218 358000) ".gitignore" ".git/" "build/" "../" "game idea.xcf" "src/" "./")
+
+ ("/home/keanu/.config/" (25137 52677 814879 608000) "wal/" "BraveSoftware/" "configstore/" "sxhkd/" "neofetch/" "cava/" "mpv/" "evolution/" "kitty/" "ibus/" "procps/" "lsd/" "matplotlib/" "gord/" "Electron/" "gh/" "yarn/" "zathura/" "inkscape/" "libfm/" "user-dirs.locale" "QtProject.conf" "gtk-3.0/" "menus/" "mimeapps.list" "fish/" "../" "yay/" "discord/" "discordcanary/" "mutt/" "draw.io/" "msmtp/" "sqlitebrowser/" "goa-1.0/" "user-dirs.dirs" "calcurse/" "sakura/" "qutebrowser/" "nvim_primagen/" "GIMP/" "pulse/" "deluge/" "gtk-2.0/" "dconf/" "typeracer/" "htop/" "./" "autostart/" "QtProject/" "nvim/" "i3/")
+
+ ("/home/keanu/.xmonad/" (25137 54340 43918 861000) "../" "./")
+
+ ("/etc/" (25137 53915 334017 505000) "bindresvport.blacklist" "gshadow" "grub.d/" "mkinitcpio.d/" "neomuttrc" "tpm2-tss/" "syslog-ng/" "logrotate.conf" "init.d/" "i3status.conf" "ntp.conf" "opt/" "X11/" "makepkg.conf" "vconsole.conf" "mpv/" "conf.d/" "cron.hourly/" "nginx/" "machine-id" "arch-release" "fstab" "elogind/" "acpi/" "lvm/" "keyutils/" "rhashrc" "NetworkManager/" "lynx.cfg" "mtab" "brave/" "services" "runlevels/" "wgetrc" "mailcap" "exports.d/" "ld.so.conf" "inputrc" "nbd-server/" "ca-certificates/" "artix-release" "sensors.d/" "locale.gen" "fonts/" "libpaper.d/" "krb5.conf" "openldap/" "cron.d/" "depmod.d/" "pacman.conf" "idmapd.conf" "ssl/" "securetty" "localtime/" "hosts" "xdg/" "passwd" "ts.conf" "environment" "xattr.conf" "skel/" "udev/" "pinentry/" "texmf/" "cron.deny" "zsh/" "libnl/" "openswap.conf" "mke2fs.conf" "trusted-key.key" "libva.conf" "tmpfiles.d/" "papersize" "os-release" "login.defs" "java-openjdk/" "nsswitch.conf" "pacman.d/" "ssh/" "mail.rc" "rsyncd.conf" "hostname" "profile.d/" "healthd.conf" "rc_maps.cfg" "initcpio/" "gtk-3.0/" "passwd.OLD" "anacrontab" "locale.gen.pacnew" "rpc" "fish/" "vdpau_wrapper.cfg" "netconfig" "gai.conf" "../" "issue" "man_db.conf" "libaudit.conf" "sysctl.d/" "adjtime" "xml/" "default/" "request-key.conf" "gssproxy/" "ImageMagick-7/" "rc.conf" "ethertypes" "resolv.conf" "iproute2/" "cron.monthly/" "gdb/" "timezone" "logrotate.d/" "wpa_supplicant/" "local.d/" "pipewire/" "ld.so.conf.d/" "mime.types" "paru.conf.pacnew" "pam.d/" "dhcpcd.conf" "pkcs11/" "polkit-1/" "fuse.conf" "lynx.lss" "bash/" "xinetd.d/" "passwd-" "iptables/" "protocols" "locale.conf" "ld.so.cache" "host.conf" "profile" "crypttab" ".pwd.lock" "group" "cron.daily/" "avahi/" "e2scrub.conf" "lsb-release" "mkinitcpio.conf" "pulse/" "paru.conf" "mdadm.conf" "rc_keymaps/" "gshadow-" "sensors3.conf" "nfs.conf" "nscd.conf" "gtk-2.0/" "dconf/" "audit/" "cron.weekly/" "shells" "modprobe.d/" "shadow-" "group-" "nfsmount.conf" "openmpi/" "OpenCL/" "gss/" "./" "security/" "slsh.rc" "i3/" "gimp/" "shadow" "request-key.d/" "doas.conf" "libinput/" "exports")
+
+ ("/home/keanu/suckless/dwm/" (25137 47842 873441 886000) "README" "config.h.rej" "Makefile" "LICENSE" "awesome-glyphs.txt" "drw.c" "util.h" "endx" "config.def.h.orig" "dwm.o" "dwm.c" "drw.h" "config.h" "config.def.h.bak" "dwm.png" "drw.o" "../" "config.def.h" "dwm.1" "dwm-fullgaps-6.2.diff" "transient.c" "config.def.h.rej" "config.h.orig" ".ccls-cache/" "util.o" "util.c" "shiftview.c" "dwm.c.orig" "./" "config.mk" "dwm")
+
+ ("/home/keanu/code/filemanagerv2/" (25059 14387 118948 795000) "Makefile" ".gitignore" ".git/" "functions.h" "functions.c" "../" "README.md" "fm" "main.c" "./")
+
+ ("/home/keanu/code/problems/Hackerrank/algo/" (25111 53837 631594 902000) "a-very-big-sum.cpp" "simple-array-sum.cpp" "diagonal-difference.cpp" "diagonal-difference" "compare-the-triplets.cpp" "magic-square-forming.cpp" "../" "solve-me-first.cpp" "./" "input")
+
+ ("/home/keanu/code/remake-Endless-Driver/" (25082 30959 214914 466000) ".gitignore" ".git/" "build/" "../" "README.md" "src/" "./")
+
+ ("/home/keanu/code/cistern_demo/src/" (25136 56488 470343 318000) "func.h" "vars.c" "func.c" "../" "vars.h" "main.c" "./")
+
+ ("/home/keanu/code/haskell/" (25136 57502 9350 757000) "vowel_count.hs" "highestandlowest_in_string.hs" "find_missing_letter.hs" ".vowel_count.hs.~undo-tree~" "your_order_please.hs" ".test.hs.~undo-tree~" "../" "move_zeros.hs" "scramblies.hs" "find_missing.hs" "find_outlier.hs" "./" "get_mid_char.hs" ".find_missing.hs.~undo-tree~")
+
+ ("/home/keanu/themes/" (25132 54625 153863 86000) "base16-black-metal.json" "base16-xcode-dusk.json" "base16-circus.json" "dkeg-wintry.json" "dkeg-skigh.json" "base16-bright.json" "dkeg-forst.json" "sexy-invisibone.json" "base16-atelier-dune.json" "sexy-dawn.json" "sexy-insignificato.json" "sexy-phrak1.json" "base16-atelier-plateau.json" "sexy-bitmute.json" "sexy-derp.json" "dkeg-diner.json" "dkeg-tealights.json" "dkeg-transposet.json" "base16-bespin.json" "sexy-dwmrob.json" "base16-tube.json" "dkeg-stv.json" "base16-dracula.json" "tempus_autumn.json" "dkeg-escen.json" "base16-railscasts.json" "vscode.json" "dkeg-5725.json" "dkeg-depth.json" "sexy-eqie6.json" "base16-rebecca.json" "sexy-tlh.json" "dkeg-sprout.json" "base16-paraiso.json" "base16-summerfruit.json" "sexy-gslob-nature-suede.json" "dkeg-vans.json" "sexy-splurge.json" "tempus_future.json" "base16-ashes.json" "base16-materia.json" "base16-unikitty.json" "base16-classic.json" "base16-black-metal-khold.json" "base16-brewer.json" "blackAndRed.json" "dkeg-harbing.json" "dkeg-urban.json" "base16-material-palenight.json" "sexy-orangish.json" "dkeg-paints.json" "hybrid-material.json" "sexy-tartan.json" "base16-hopscotch.json" "dkeg-provrb.json" "dkeg-flapr.json" "base16-black-metal-immortal.json" "base16-black-metal-bathory.json" "dkeg-simplicity.json" "base16-black-metal-nile.json" "base16-atelier-cave.json" "base16-harmonic.json" "dkeg-fendr.json" "base16-twilight.json" "base16-eighties.json" "dkeg-branch.json" "base16-3024.json" "sexy-zenburn.json" "zenburn.json" "base16-flat.json" "dkeg-poly.json" "tempus_dusk.json" "dkeg-amiox.json" "dkeg-scag.json" "sexy-thwump.json" "sexy-euphrasia.json" "base16-icy.json" "base16-gruvbox-soft.json" "dkeg-subtle.json" "sexy-swayr.json" "darktooth.json" "base16-atelier-estuary.json" "sexy-sweetlove.json" "sexy-gnometerm.json" "sexy-x-dotshare.json" "dkeg-parkd.json" "base16-mellow-purple.json" "base16-gruvbox-pale.json" "dkeg-mattd.json" "tempus_warp.json" "sexy-hund.json" "sexy-kasugano.json" "sexy-sexcolors.json" "dkeg-slate.json" "base16-oceanicnext.json" "dkeg-bluetype.json" "dkeg-brownstone.json" "sexy-trim-yer-beard.json" "dkeg-relax.json" "base16-black-metal-burzum.json" "sexy-doomicideocean.json" "sexy-neon.json" "3024.json" "base16-mocha.json" "dkeg-fury.json" "base16-materialer.json" "base16-embers.json" "dkeg-prevail.json" "dkeg-corduroy.json" "tempus_summer.json" "monokai.json" "dkeg-leaf.json" "dkeg-kit.json" "sexy-hybrid.json" "base16-porple.json" "base16-codeschool.json" "base16-grayscale.json" "base16-spacemacs.json" "sexy-rasi.json" "base16-black-metal-gorgoroth.json" "base16-atelier-forest.json" "sexy-numixdarkest.json" "sexy-nancy.json" "base16-black-metal-marduk.json" "base16-solarized.json" "sexy-mikazuki.json" "base16-atelier-seaside.json" "sexy-belge.json" "base16-atelier-savanna.json" "base16-monokai.json" "sexy-simple_rainbow.json" "base16-gruvbox-medium.json" "sexy-navy-and-ivory.json" "base16-gruvbox-hard.json" "ashes.json" "tempus_rift.json" "base16-marrakesh.json" "dkeg-pastely.json" "dkeg-blumune.json" "dkeg-coco.json" "base16-tomorrow-night.json" "sexy-tangoesque.json" "sexy-colorfulcolors.json" "base16-ocean.json" "sexy-mikado.json" "sexy-material.json" "base16-phd.json" "dkeg-blok.json" "base16-zenburn.json" "base16-apathy.json" "base16-outrun.json" "base16-woodland.json" "base16-pico.json" "sexy-digerati.json" "sexy-s3r0-modified.json" "base16-google.json" "dkeg-raild.json" "dkeg-scape.json" "dkeg-view.json" "dkeg-shade.json" "sexy-rydgel.json" "base16-nord.json" "dkeg-victory.json" "base16-atelier-lakeside.json" "sexy-jasonwryan.json" "dkeg-petal.json" "base16-material.json" "dkeg-chaires.json" "base16-greenscreen.json" "dkeg-link.json" "dkeg-book.json" "dkeg-owl.json" "sexy-gjm.json" "base16-black-metal-funeral.json" "sexy-muse.json" "sexy-pretty-and-pastel.json" "base16-seti.json" "sexy-monokai.json" "base16-brushtrees.json" "sexy-user-77-mashup-colors.json" "base16-isotope.json" "dkeg-squares.json" "sexy-visibone.json" "base16-irblack.json" "dkeg-blend.json" "tempus_winter.json" "base16tooth.json" "base16-macintosh.json" "base16-black-metal-venom.json" "sexy-vacuous2.json" "dkeg-novmbr.json" "sexy-tango.json" "dkeg-spire.json" "sexy-cloud.json" "tempus_spring.json" "sexy-theme2.json" "sexy-astromouse.json" "dkeg-bulb.json" "base16-atelier-heath.json" "base16-atelier-sulphurpool.json" "gruvbox.json" "gruberdarker.json" "base16-solarflare.json" "solarized.json" "dkeg-traffic.json" "sexy-rezza.json" "base16-pop.json" "sexy-dotshare.json" "dkeg-sundr.json" "dkeg-bark.json" "sexy-visibone-alt-2.json" "sexy-deafened.json" "base16-onedark.json" "base16-default.json" "sexy-parker_brothers.json" "base16-snazzy.json" "dkeg-designr.json" "sexy-gotham.json" "base16-chalk.json" "dkeg-soundwave.json" "base16-black-metal-mayhem.json" "../" "./")
+
+ ("/home/keanu/code/cistern_demo/" (25090 47828 411441 160000) ".git/" "build/" "../" "src/" "./")
+
+ ("/home/keanu/code/habit_tracker/" (25098 38892 477906 444000) "build/" "../" "src/" "./")
+
+ ("/home/keanu/code/rust/habitcli/" (25049 43043 433792 144000) ".gitignore" ".git/" "../" "README.md" "Cargo.lock" "target/" "Cargo.toml" "src/" "./")
+
+ ("/home/keanu/.config/nvim/" (25054 62149 21783 499000) "maps.vim" ".git/" "after/" "colors/" "../" "init.vim" "plug.vim" "./")
+
+ ("/home/keanu/code/chess_board/" (25040 27869 89892 859000) "chessboard" "../" "main.c" "makefile" "./" "readme.md")
+
+ ("/home/keanu/code/chess-SDL2/" (25050 9920 446180 194000) "Makefile" ".gitignore" ".git/" "chess" "../" "chess_pieces/" "main.c" "./")
+
+ ("/home/keanu/code/screensaver_sdl2/" (25050 10236 401066 350000) "Makefile" ".gitignore" ".git/" "dvd_logo.png" "../" "main.c" "sv" "./")
+
+ ("/home/keanu/code/rectangle_game/" (25051 2748 93549 436000) "Makefile" "rectangle_game" "../" "main.c" "crate.png" "./")
+
+ ("/home/keanu/code/2d_SDL2/" (25036 21951 733190 432000) "Makefile" "../" "2D_Game" "main.c" "./")
+
+ ("/home/keanu/code/rust/rustTest/src/" (25042 63203 390507 958000) "main.rs" "../" "./")
+
+ ("/home/keanu/code/rust/habitcli/src/" (25049 31564 592756 617000) "args.rs" "main.rs" "cli.rs" "../" "func.rs" "run.rs" "./")
+
+ ("/home/keanu/code/problems/Hackerrank/" (25055 61032 672326 684000) "C/" "algo/" "../" "./")
+
+ ("/home/keanu/code/rust/rustTest/" (25040 26663 651251 78000) "../" "Cargo.lock" "target/" "Cargo.toml" "src/" "./")
+
+ ("/home/keanu/Templates/" (25002 10547 337197 682000) "../" "./")
+
+ ("/home/" (25002 25868 180644 579000) "artix/" "keanu/" "../" "./")
+
+ ("/tmp/" (25024 39284 814403 753000) "nvimtb8T5W/" ".X11-unix/" "emacs-async-comp-undo-tree-rZGDY6.el" ".Test-unix/" ".XIM-unix/" ".ICE-unix/" "emacs-async-comp-undo-tree-umRXNe.el" "zathura.stdin.5OQXE1" ".X0-lock" "mozilla_keanu0/" "../" ".font-unix/" "libgccjit-svnixz/" "dbus-pawquzQlcm" "libgccjit-KymWux/" "./" "emacs-async-comp-undo-tree-L908RL.el" "tmux-1000/" "Temp-7ba36beb-a016-45c5-968f-75a75c41d687/" "serverauth.PU7ndmBA3r")
+
+ ("/tmp/mozilla_keanu0/" (25024 39288 887800 81000) "-vFQ.ms" "../" "./")
+
+ ("/home/keanu/code/groff/" (25024 27844 524149 439000) "../" "cv.ms" "cv.pdf" "./")
+
+ ("/home/keanu/code/game_sdl2/" (25013 7080 188707 507000) ".#main.c" "#main.c#" "Makefile" "game" "../" "main.c" "./")
+
+ ("/home/keanu/code/aoc/day1/" (25008 49504 205425 139000) "main" "main.cpp" "../" "input2" "./" "input")
+
+ ("/home/keanu/code/aoc/" (25007 39843 857049 705000) "day1/" "../" "./")
+
+ ("/home/keanu/dotfiles/" (24999 41002 807048 248000) "BraveSoftware/" "dwm-green/" "software" "filemanager/" "opengl/" "SDL2/" "st-flexipatch/" "dmenu/" "dwm-yellow/" "zenburn2-theme.el" "problems/" "chromium/" "dwm-blue/" "slstatus/" "simple_timer/" "../" ".Xresources" ".zshrc" "screensaver_x11/" "init.el" "nord-theme-20200620.1122/" "chess_board/" ".zprofile" ".tmux.conf" "gruber-darker-theme-20210921.1408/" "./" "nvim/" ".xinitrc")
+
+ ("/home/keanu/code/SDL2/" (25004 53759 665720 406000) "test.c" "Makefile" "chess" "../" "chess_pieces/" "bB.png" "main.c" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

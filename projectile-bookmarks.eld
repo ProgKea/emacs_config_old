@@ -1,0 +1,1 @@
+("~/.dotfiles/" "~/code/bad-game-from-tiktok/" "~/code/yew-test/" "~/code/ppm_geometry/" "~/code/scripts/" "~/code/typing-test/" "~/" "~/.dotfiles/.config/nvim/" "~/suckless/dwm/")
